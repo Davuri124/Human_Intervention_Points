@@ -71,10 +71,3 @@ State: 8 features - uncertainty, error risk, complexity, step progress, remainin
 Reward: step penalty plus large penalty for missed errors plus moderate penalty for wasted interventions plus bonus for correct interventions
 Evaluation: two-sample t-test / Mann-Whitney U test, bootstrap 95% confidence intervals (5,000 resamples), Cohen's d effect sizes, statistical power analysis
 
-## License
-
-Add your preferred license here (e.g. MIT).
-
-## Citation
-
-If you use this work, please cite the accompanying paper (details to be added upon publication).
