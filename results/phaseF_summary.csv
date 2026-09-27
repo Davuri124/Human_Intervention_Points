@@ -1,0 +1,5 @@
+agent,mean_reward,std_reward,mean_precision,mean_missed,mean_false_alarms
+PPO Agent,15.05,0.4781665150137576,0.06,0.0,0.02
+Random Agent,-4.375,5.77852331121814,0.005638888888888889,0.005,3.95
+Always Intervene,-25.92,0.5048508411989588,0.0016666666666666666,0.0,3.975
+Never Intervene,14.9,0.6260669285267948,0.0,0.025,0.0

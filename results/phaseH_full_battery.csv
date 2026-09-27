@@ -1,0 +1,4 @@
+comparison,mean_diff,ci_lo_diff,ci_hi_diff,p_value,test_used,cohens_d,hedges_g,d_interpret,cles,power,significant
+PPO Agent vs Random Agent,18.324399999999994,17.74518,18.90562,0.0,t-test,3.9008359104040653,3.897903685966277,extremely large,0.998,1.0,True
+PPO Agent vs Always Intervene,41.44959999999999,41.174789999999994,41.7132,2.372660415400927e-167,Mann-Whitney U,19.05055549138152,19.0362353544549,extremely large,1.0,1.0,True
+PPO Agent vs Never Intervene,3.3667999999999942,3.193989999999999,3.5375999999999976,2.633376917452843e-199,t-test,2.430305728472336,2.428478888786689,extremely large,0.94,1.0,True

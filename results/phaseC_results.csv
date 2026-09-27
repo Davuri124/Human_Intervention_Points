@@ -1,0 +1,2 @@
+regret_C,regret_correlation,bound_holds,empirical_threshold,theoretical_threshold,threshold_gap,boundary_accuracy,mean_bellman_res,std_bellman_res
+27.253484848484845,0.8766324565590501,True,0.0,0.65,0.65,0.9613333333333334,0.0,0.0

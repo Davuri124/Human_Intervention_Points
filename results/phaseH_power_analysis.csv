@@ -1,0 +1,7 @@
+effect_size,interpretation,n_min_80pct,power_at_200,sufficient
+0.2,small,310,0.6387600313123353,False
+0.5,medium,50,0.9996033849954737,True
+0.8,large,20,0.9999999998958858,True
+1.0,large,13,1.0,True
+2.0,extremely large,4,1.0,True
+5.0,extremely large,1,1.0,True

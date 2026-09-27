@@ -1,0 +1,5 @@
+Agent,Mean Reward,Std Dev,Precision,Mean Interventions,Efficiency
+🤖 Trained PPO Agent,11.67,1.36,0.95,2.54,5.3
+🎲 Random Agent,1.24,4.64,0.4906,5.0,0.66
+📢 Always Intervene,-12.44,2.78,0.523,10.0,-1.24
+🤐 Never Intervene,7.51,2.41,0.0,0.0,7.51

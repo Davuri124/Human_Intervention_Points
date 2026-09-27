@@ -1,0 +1,1 @@
+{"type": "Algorithm", "checkpoint_version": "1.2", "format": "cloudpickle", "state_file": "C:\\Users\\agnes\\PycharmProjects\\intervention_point_detection\\agents\\..\\results\\best_checkpoint\\checkpoint_000009\\algorithm_state.pkl", "policy_ids": ["default_policy"], "ray_version": "2.6.3", "ray_commit": "8a434b4ee7cd48e60fa1531315d39901fac5d79e"}

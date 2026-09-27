@@ -1,0 +1,4 @@
+config,mean_reward,std_reward
+Full System (V3),18.243,1.9994876843831773
+No Cascade Effect,18.432,1.6664261159739429
+No Phase Multiplier,17.985,1.1021683174542807
